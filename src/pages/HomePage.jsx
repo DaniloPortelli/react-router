@@ -5,7 +5,6 @@ const HomePage = () => {
         <>
         <NavBar/>
         <h1>Home Page</h1>
-        
         </>
     )
 }
